@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Rohaan</h1>
-<p align="center">Level 1️⃣ Seller on Fiverr 🙌🏻</p>
+<p align="center">Level 1 Seller on Fiverr 🙌🏻</p>
 <h3 align="center">Full-stack developer to be!</h3>
 
 - 🔭 I’m currently working on **Full-stack Todo App (VITL Stack)**
